@@ -95,7 +95,7 @@ const playerDict ={
 	},
 	sprites: {
 		idle: {
-			imageSrc:'./img/fighter1/idle.png',
+			imageSrc:'./img/fighter1/Idle.png',
 			framesX: 4,
 			framesY: 1,
 		},
@@ -125,7 +125,7 @@ const playerDict ={
 			framesY: 1
 		},
 		kick: {
-			imageSrc:'./img/fighter1/Kick.png',
+			imageSrc:'./img/fighter1/kick.png',
 			framesX: 5,
 			framesY: 1
 		},
@@ -160,12 +160,12 @@ const playerDict ={
 			framesY: 1
 		},
 		attack1Flipped: {
-			imageSrc:'./img/fighter1/attack1Flipped.png',
+			imageSrc:'./img/fighter1/Attack1Flipped.png',
 			framesX: 3,
 			framesY: 1
 		},
 		hurtFlipped: {
-			imageSrc:'./img/fighter1/hurt.png',
+			imageSrc:'./img/fighter1/Hurt.png',
 			framesX: 4,
 			framesY: 1
 		},
@@ -243,7 +243,7 @@ const playerDict ={
 			framesY: 1
 		},
 		attack1: {
-			imageSrc:'./img/fighter1/attack1Flipped.png',
+			imageSrc:'./img/fighter1/Attack1Flipped.png',
 			framesX: 3,
 			framesY: 1
 		},
@@ -273,32 +273,32 @@ const playerDict ={
 			framesY: 1
 		},
 		idleFlipped: {
-			imageSrc:'./img/fighter1/idle.png',
+			imageSrc:'./img/fighter1/Idle.png',
 			framesX: 4,
 			framesY: 1,
 		},
 		runFlipped: {
-			imageSrc:'./img/fighter1/run.png',
+			imageSrc:'./img/fighter1/Run.png',
 			framesX: 5,
 			framesY: 1
 		},
 		jumpFlipped: {
-			imageSrc:'./img/fighter1/jump.png',
+			imageSrc:'./img/fighter1/Jump.png',
 			framesX: 7,
 			framesY: 1
 		},
 		attack1Flipped: {
-			imageSrc:'./img/fighter1/attack1.png',
+			imageSrc:'./img/fighter1/Attack1.png',
 			framesX: 3,
 			framesY: 1
 		},
 		hurtFlipped: {
-			imageSrc:'./img/fighter1/hurt.png',
+			imageSrc:'./img/fighter1/Hurt.png',
 			framesX: 4,
 			framesY: 1
 		},
 		deathFlipped: {
-			imageSrc:'./img/fighter1/death.png',
+			imageSrc:'./img/fighter1/Death.png',
 			framesX: 5,
 			framesY: 1
 		},
@@ -391,7 +391,7 @@ const playerDict ={
 				framesY: 1
 			},
 			kick: {
-				imageSrc:'./img/goku/KickFlipped.png',
+				imageSrc:'./img/goku/kickFlipped.png',
 				framesX: 6,
 				framesY: 1
 			},
@@ -514,7 +514,7 @@ const playerDict ={
 				framesY: 1
 			},
 			hurt: {
-				imageSrc:'./img/goku/takeHitFlipped.png',
+				imageSrc:'./img/goku/takehitFlipped.png',
 				framesX: 4,
 				framesY: 1
 			},
@@ -559,7 +559,7 @@ const playerDict ={
 				framesY: 1
 			},
 			hurtFlipped: {
-				imageSrc:'./img/goku/takeHit.png',
+				imageSrc:'./img/goku/takehit.png',
 				framesX: 4,
 				framesY: 1
 			},
@@ -627,7 +627,7 @@ const playerDict ={
 		},
 		sprites: {
 			idle: {
-				imageSrc:'./img/fighter2/idle.png',
+				imageSrc:'./img/fighter2/Idle.png',
 				framesX: 4,
 				framesY: 1,
 			},
@@ -672,7 +672,7 @@ const playerDict ={
 				framesY: 1
 			},
 			idleFlipped: {
-				imageSrc:'./img/fighter2/idle.png',
+				imageSrc:'./img/fighter2/Idle.png',
 				framesX: 4,
 				framesY: 1,
 			},
@@ -692,12 +692,12 @@ const playerDict ={
 				framesY: 1
 			},
 			hurtFlipped: {
-				imageSrc:'./img/fighter2/hurt.png',
+				imageSrc:'./img/fighter2/Hurt.png',
 				framesX: 4,
 				framesY: 1
 			},
 			deathFlipped: {
-				imageSrc:'./img/fighter2/deathFlipped.png',
+				imageSrc:'./img/fighter2/Death.png',
 				framesX: 5,
 				framesY: 1
 			},
@@ -785,7 +785,7 @@ const playerDict ={
 				framesY: 1
 			},
 			death: {
-				imageSrc:'./img/fighter2/deathFlipped.png',
+				imageSrc:'./img/fighter2/Death.png',
 				framesX: 5,
 				framesY: 1
 			},
@@ -805,37 +805,37 @@ const playerDict ={
 				framesY: 1
 			},
 			idleFlipped: {
-				imageSrc:'./img/fighter2/idle.png',
+				imageSrc:'./img/fighter2/Idle.png',
 				framesX: 4,
 				framesY: 1,
 			},
 			runFlipped: {
-				imageSrc:'./img/fighter2/run.png',
+				imageSrc:'./img/fighter2/Run.png',
 				framesX: 5,
 				framesY: 1
 			},
 			jumpFlipped: {
-				imageSrc:'./img/fighter2/jump.png',
+				imageSrc:'./img/fighter2/Jump.png',
 				framesX: 7,
 				framesY: 1
 			},
 			attack1Flipped: {
-				imageSrc:'./img/fighter2/attack1.png',
+				imageSrc:'./img/fighter2/Attack1.png',
 				framesX: 3,
 				framesY: 1
 			},
 			hurtFlipped: {
-				imageSrc:'./img/fighter2/hurt.png',
+				imageSrc:'./img/fighter2/Hurt.png',
 				framesX: 4,
 				framesY: 1
 			},
 			deathFlipped: {
-				imageSrc:'./img/fighter2/death.png',
+				imageSrc:'./img/fighter2/Death.png',
 				framesX: 5,
 				framesY: 1
 			},
 			kickFlipped: {
-				imageSrc:'./img/fighter2/kick.png',
+				imageSrc:'./img/fighter2/Kick.png',
 				framesX: 3,
 				framesY: 1
 			},
