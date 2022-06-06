@@ -45,7 +45,7 @@ const vegetaAudio = new Audio('./audio/vegeta.mp4')
 const marioAudio = new Audio('./audio/mario.mp4')
 const koAudio = new Audio('./audio/ko.mp4')
 const gameSelectAudio = new Howl({
-	src: './audio/gameselect.mp3'
+	src: './audio/gameSelect.mp3'
 })
 
 var player1 = undefined
